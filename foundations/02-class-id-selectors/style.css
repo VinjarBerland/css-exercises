@@ -1,0 +1,20 @@
+.odd {
+       background-color: rgb(255, 0, 0, 0.4);
+       font-family: verdana;
+
+}
+.odd-cooler{
+       font-size:24px;
+}
+
+#even {
+       color: rgb(0, 0, 255);
+       font-size: 36px;
+}
+
+#even2 {
+       background-color: rgb(0,255,0);
+       color: black;
+       font-size: 24px;
+       font-weight: bold;
+}
